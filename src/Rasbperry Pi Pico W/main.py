@@ -55,7 +55,7 @@ imu = MPU6050(i2c)
 hostname = 'riskstreamhub.azure-devices.net'
 clientid = 'riskdevice'
 user_name = 'riskstreamhub.azure-devices.net/riskdevice/?api-version=2021-04-12'
-passw = 'SharedAccessSignature sr=riskstreamhub.azure-devices.net%2Fdevices%2Friskdevice&sig=yvPIrh9gnIvLey5DG7O70VOhZWP17IVHBndWtQmNvFY%3D&se=2283256369'
+passw = 'SharedAccessSignature sr=riskstreamhub.azure-devices.net%2Fdevices%' #put here your credentials
 topic_pub = b'devices/riskdevice/messages/events/'
 port_no = 0
 subscribe_topic = "devices/riskdevice/messages/devicebound/#"
