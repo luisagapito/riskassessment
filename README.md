@@ -17,7 +17,7 @@ Outputs
 
 ![image](https://github.com/luisagapito/riskassessment/assets/88048890/24ae79a9-0a71-4f12-992d-410add419a76)
 
-Query code in this repo
+Query code in Repo Code
 
 
 # IoT Hub
