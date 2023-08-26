@@ -29,6 +29,8 @@ Device
 ![image](https://github.com/luisagapito/riskassessment/assets/88048890/cb3569cb-a024-418e-891f-0c43e70d7062)
 
 # Power BI
-
+Power Bi Online
 ![image](https://github.com/luisagapito/riskassessment/assets/88048890/d4c4b9d9-bc6a-45ae-b0c6-4a421308f704)
+
+Power BI Reports in Repo Code
 
