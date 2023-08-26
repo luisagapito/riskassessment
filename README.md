@@ -1,6 +1,7 @@
 # riskassessment
 
-Este es el repositorio de código para el proyecto de "SISTEMA INTEGRADO DE MONITOREO PARA SEGURO VEHICULAR EN AUTOS PARTICULARES"
+This is the code repo for the project "Integrated Monitoring System for Particular Car Insurance".
+The configuration of the Azure Services are being presented in this document.
 
 # Stream Analytics
 Services
