@@ -20,3 +20,12 @@ Outputs
 Query code in this repo
 
 
+# IoT Hub
+
+Service
+![image](https://github.com/luisagapito/riskassessment/assets/88048890/33c0de4e-8de6-4e83-b54c-93989fcf5353)
+
+Device
+![image](https://github.com/luisagapito/riskassessment/assets/88048890/cb3569cb-a024-418e-891f-0c43e70d7062)
+
+
