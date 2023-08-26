@@ -5,7 +5,7 @@ The configuration of the Azure Services are being presented in this document.
 
 # Stream Analytics
 Services
-![image](https://github.com/luisagapito/riskassessment/assets/88048890/ad9df2da-0db4-4fdd-a677-9089017f4693)
+![image](https://github.com/luisagapito/riskassessment/assets/88048890/fde8f5c2-c3ad-4b9c-b5b6-97f94065e8de)
 
 Inputs
 ![image](https://github.com/luisagapito/riskassessment/assets/88048890/d2068b57-3ad9-4d1a-ab1f-fd2e56afa9fe)
