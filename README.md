@@ -1,4 +1,4 @@
-# riskassessment
+# Risk Assessment Project
 
 This is the code repo for the project "Integrated Monitoring System for Particular Car Insurance".
 The configuration of the Azure Services are being presented in this document.
